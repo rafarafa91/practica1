@@ -4,4 +4,4 @@ mi primer repositorio GitHub
 
 Mi primera contribucion Desde VSCode 
 
-Una contribucion al repositorio
+Una contribucion al repositorio de git
